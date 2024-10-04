@@ -12,9 +12,13 @@ cd analisis_data_submission
 pipenv install
 pipenv shell
 pip install -r requirements.txt
+```
+
+## Run Streamlit in local
+```bash
 streamlit run dashboard/dashboard.py
 ```
 
-## Run Streamlit 
+## url streamlit
 https://dfebrywulangsih-proyek.streamlit.app/
 
