@@ -1,17 +1,20 @@
-### OLIST E-COMMERCE DASHBOARD
-  by : D. Febry Wulangsih
-  source dataset : [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce]
+# OLIST E-Commerce Dashboard
 
+**By:** D. Febry Wulangsih
 
-### Setup Environment Shell/Terminal
+**Source Dataset:** [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-#mkdir analisis_data_submission
-#cd analisis_data_submission
-#pipenv install
-#pipenv shell
-#pip install -r requirements.txt
-#>streamlit run dashboard/dashboard.py
+## Overview
 
+This project visualizes and analyzes the Brazilian e-commerce dataset from Olist. The dashboard provides various insights into sales data, customer distribution, product categories, and order delivery performance.
 
-### Run Streamlit 
-https://dfebrywulangsih-proyek.streamlit.app/
+## Setup Environment
+
+To set up and run this project locally, follow the instructions below.
+
+### Prerequisites
+
+Ensure you have Python and `pipenv` installed. If you don't have `pipenv`, install it with:
+
+```bash
+pip install pipenv
