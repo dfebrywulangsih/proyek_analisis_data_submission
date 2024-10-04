@@ -1,6 +1,6 @@
 ### OLIST E-COMMERCE DASHBOARD
-#by : D. Febry Wulangsih
-#source dataset : [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce]
+  by : D. Febry Wulangsih
+  source dataset : [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce]
 
 
 ### Setup Environment Shell/Terminal
